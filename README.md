@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is Michael Nguyen. I'm a student at Carnegie Mellon University studying Electrical and Computer Engineering.
-- :email: [mnguyen2@andrew.cmu.edu](mailto: mnguyen2@andrew.cmu.edu).
+- :email: [mnguyen2@andrew.cmu.edu](mailto:mnguyen2@andrew.cmu.edu).
 - Visit my webpage: [mnguyen.studio](https://mnguyen.studio)
 
 <!--
