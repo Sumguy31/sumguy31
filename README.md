@@ -1,9 +1,10 @@
 ### Hi there 👋
 My name is Michael Nguyen. I'm a student at Carnegie Mellon University studying Electrical and Computer Engineering.
-- :email: [mnguyen2@andrew.cmu.edu](mailto:mnguyen2@andrew.cmu.edu).
+- :email: [mnguyen2@andrew.cmu.edu](mailto:mnguyen2@andrew.cmu.edu)
 - Visit my webpage: [mnguyen.studio](https://mnguyen.studio)
 - :page_facing_up: [Resume](https://mnguyen.studio/documents/mnguyen_resume.pdf)
-
+- :rocket: currently interested in computer vision and embeded systems projects
+- :telescope: working on Georeferenced Models for VR systems for CMU Cylab
 <!--
 **Sumguy31/sumguy31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
