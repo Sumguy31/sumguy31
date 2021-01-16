@@ -3,7 +3,7 @@ My name is Michael Nguyen. I'm a student at Carnegie Mellon University studying 
 - :rocket: currently interested in computer vision and embeded systems projects
 - :telescope: working on Georeferenced Models for VR systems for CMU Cylab
 - :email: [mnguyen2@andrew.cmu.edu](mailto:mnguyen2@andrew.cmu.edu)
-- Visit my webpage: [mnguyen.studio](https://mnguyen.studio)
+- :globe_with_meridians: [mnguyen.studio](https://mnguyen.studio)
 - :page_facing_up: [Resume](https://mnguyen.studio/documents/mnguyen_resume.pdf)
 
 <!--
