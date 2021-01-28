@@ -6,9 +6,6 @@ My name is Michael Nguyen. I'm a student at Carnegie Mellon University studying 
 - :globe_with_meridians: [mnguyen.studio](https://mnguyen.studio)
 - :page_facing_up: [Resume](https://mnguyen.studio/documents/mnguyen_resume.pdf)
 
-
-<iframe src="https://discord.com/widget?id=804169371030126634&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-
 <!--
 **Sumguy31/sumguy31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
