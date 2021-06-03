@@ -3,8 +3,8 @@ My name is Michael Nguyen. I'm a student at Carnegie Mellon University studying 
 - :rocket: currently interested in computer vision and embeded systems projects
 - :telescope: working on Georeferenced Models for VR systems @ CMU Cylab
 - :email: [mnguyen2@andrew.cmu.edu](mailto:mnguyen2@andrew.cmu.edu)
-- :globe_with_meridians: [mnguyen.studio](https://mnguyen.studio)
-- :page_facing_up: [Resume](https://mnguyen.studio/documents/mnguyen_resume.pdf)
+- :globe_with_meridians: [mnguyen.studio](https://mnguyen.dev)
+- :page_facing_up: [Resume](https://mnguyen.dev/documents/mnguyen_resume.pdf)
 
 <!--
 **Sumguy31/sumguy31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
