@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is Michael Nguyen. I'm a student at Carnegie Mellon University studying Electrical and Computer Engineering.  
-- :rocket: currently interested in computer vision and embeded systems projects
+- :rocket: currently interested in computer hardware development and computer graphics
 - :telescope: working on Georeferenced Models for VR systems @ CMU Cylab
 - :email: [mnguyen2@andrew.cmu.edu](mailto:mnguyen2@andrew.cmu.edu)
 - :globe_with_meridians: [mnguyen.dev](https://mnguyen.dev)
