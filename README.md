@@ -2,7 +2,7 @@
 My name is Michael Nguyen. I'm a student at Carnegie Mellon University studying Electrical and Computer Engineering.  
 - :rocket: currently interested in computer hardware development and computer graphics
 - :telescope: in between projects
-- :email: [mnguyen2@andrew.cmu.edu](mailto:mnguyen2@andrew.cmu.edu)
+- :email: [mnguyen2+www@andrew.cmu.edu](mailto:mnguyen2+www@andrew.cmu.edu)
 - :globe_with_meridians: [mnguyen.dev](https://mnguyen.dev)
 - :page_facing_up: [Resume](https://mnguyen.dev/documents/mnguyen_resume.pdf)
 
